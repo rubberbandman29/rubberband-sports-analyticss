@@ -17,16 +17,34 @@ This repository is used to organize sports-focused analytics projects, including
 
 ## Folder Structure
 
-```text
 assets/
-  screenshots/
-  logos/
+- screenshots/
+- logos/
 
 docs/
 
 projects/
 
 data/
-  sample/
+- sample/
 
 src/
+
+## Featured Projects
+
+Projects will be added here as they are built and published.
+
+Planned examples:
+
+- NBA Edge Predictor
+- Player Points Trend Dashboard
+- NBA Team Breakdown Series
+
+## Status
+
+This repo is currently being structured. Project folders, screenshots, writeups, and demo links will be added over time.
+
+## Links
+
+- Main site: Rubberband Analytics
+- GitHub profile: https://github.com/rubberbandman29
